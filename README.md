@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
- src='https://s4.ezgif.com/tmp/ezgif-4-94a205bd1c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ src='https://imgur.com/a/hCtNdd8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
